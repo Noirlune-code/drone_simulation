@@ -238,6 +238,7 @@ Drone in gazebo will takeoff and fly. **If it does not then reload try the verif
 Mission Planner is not natively supported in LINUX so we would use mono to run it as on virtual machine.
 Mission Planner does run under MONO but will have occasional issues and/or crashes.
 You can use other softwares like QGroundControl that are directly available for linux.
+For detailed setup refer to: https://ardupilot.org/planner/docs/mission-planner-installation.html
 
 ### Install mono
 
