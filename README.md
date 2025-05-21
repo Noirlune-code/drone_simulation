@@ -160,7 +160,7 @@ sudo apt-get update && sudo apt-get install git
 ####Clone the repository
 ```
 cd ~
-git clone --recurse-submodules https://github.com/your-github-userid/ardupilot
+git clone --recurse-submodules https://github.com/ArduPilot/ardupilot.git
 cd ardupilot
 ```
 Just run the bash script and all processing will be done.
